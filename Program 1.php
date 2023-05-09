@@ -9,6 +9,7 @@ $pattern1 = "/cat/i";
  
 $string ="CAT is not a dog";
  
+
 $result = preg_match($pattern1,$string);
 if($result){
     echo "<br>cat found";
