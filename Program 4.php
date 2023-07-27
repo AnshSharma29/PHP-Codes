@@ -1,5 +1,7 @@
 //WAP to show the usage of for/while/do while loop.
 
+
+
 <?php   
 echo " implementing for loop<br> "; 
 echo"list of numbers are<br> "; 
