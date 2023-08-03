@@ -11,6 +11,8 @@ echo("<br>");
 $result = array_splice($input, 4); 
 print_r($result); 
 echo("<br>");echo("<br>"); 
+
+
  
 echo("Performing array slice"); 
 echo("<br>"); 
