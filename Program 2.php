@@ -1,5 +1,7 @@
 #WAP to show the usage of nested if statement. 
 
+
+
 <?php
 $num=300;
 if($num%2==0)
