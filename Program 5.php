@@ -40,6 +40,9 @@ echo "Natural order: ";
 echo "<br>";
 print_r($my_array);
 
+
+
+
 ?>
 
 
