@@ -20,6 +20,7 @@ $result1 = array_slice($input, 1, 3);
 print_r($result1); 
 echo("<br>");echo("<br>"); 
  
+
 echo("Performing array pad"); 
 echo("<br>"); 
 $numbers = array(5, 10, 15); 
